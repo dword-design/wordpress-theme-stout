@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/wordpress-theme-stout/compare/v1.0.0...v1.0.1) (2020-07-19)
+
+
+### Bug Fixes
+
+* fix header ([073ae14](https://github.com/dword-design/wordpress-theme-stout/commit/073ae149cc8dc79a6b34fc60ad7558fe29b31196))
+
 # 1.0.0 (2020-07-19)
 
 
