@@ -5,7 +5,6 @@
 		<title><?php wp_title('-', 1, 'right'); ?> <?php bloginfo('name'); ?></title>
 		<meta name="robots" content="index, follow" />
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link rel="icon" type="image/x-gif" href="<?php echo get_stylesheet_directory_uri(); ?>/icon.gif">
 		<link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/css/style.css" media="all" />
 		<meta name="viewport" content="width=device-width">
 		<link rel="pingback" href="<?php bloginfo('wpurl'); ?>/xmlrpc.php" />
