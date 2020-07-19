@@ -1,0 +1,73 @@
+#menu {
+  height: 130px;
+  background-image: url(../images/glass_0_0.png);
+  background-position: top;
+  background-size: 936px 130px;
+
+  & a {
+    color: black;
+    font-size: 1.4em;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+  }
+
+  & li:hover > a,
+  & li.current-menu-item > a,
+  & li.current-page-ancestor > a {
+    color: #006800;
+  }
+
+  li:hover ul.sub-menu {
+    background-color: #f3e8c2;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  & .menu {
+    display: block;
+    margin: auto 0;
+    padding-top: 60px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+    list-style-type: none;
+    font-weight: bold;
+    text-align: center;
+
+    & > li {
+      display: inline-block;
+      vertical-align: middle;
+      margin: 0;
+
+      &::after {
+        content: "\2666";
+        font-size: 1.2em;
+      }
+
+      &:last-child::after {
+        content: "";
+      }
+
+      & > a {
+        padding: 5px;
+      }
+    }
+  }
+
+  .sub-menu {
+    position: absolute;
+    z-index: 999;
+    background-color: #efe7d0;
+    text-align: left;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+
+    & li {
+      padding: 10px;
+    }
+  }
+}

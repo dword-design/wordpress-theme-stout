@@ -1,0 +1,9 @@
+.gallery a {
+  display: inline-block;
+  background-color: white;
+  line-height: 0;
+}
+
+.gallery img:hover {
+  opacity: 0.8;
+}

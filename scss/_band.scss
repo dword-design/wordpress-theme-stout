@@ -1,0 +1,26 @@
+#band {
+  display: table;
+  width: 556px;
+  height: 370px;
+  margin-bottom: 20px;
+
+  & a {
+    display: table-cell;
+    width: 50%;
+    height: 100%;
+    background-position: 0% 0%;
+    background-size: 200%;
+
+    &.mario {
+      background-image: url(https://www.stout-music.de/wp-content/uploads/2014/10/Bandvorstellung-links.jpg);
+    }
+
+    &.simon {
+      background-image: url(https://www.stout-music.de/wp-content/uploads/2014/10/Bandvorstellung-rechts.jpg);
+    }
+
+    &:hover {
+      background-position: 100% 0%;
+    }
+  }
+}

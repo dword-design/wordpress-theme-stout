@@ -1,0 +1,29 @@
+{
+  "name": "wordpress-theme-stout",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "clean": "base clean",
+    "commit": "base commit",
+    "lint": "base lint",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "test": "base test"
+  },
+  "dependencies": {
+    "reset-css": "^5.0.1"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^6.24.1",
+    "@dword-design/base-config-wordpress-theme": "^1.1.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "baseConfig": "@dword-design/wordpress-theme"
+}
