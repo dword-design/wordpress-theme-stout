@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/wordpress-theme-stout/compare/v1.0.2...v1.0.3) (2020-07-19)
+
+
+### Bug Fixes
+
+* fix ([ddad8d7](https://github.com/dword-design/wordpress-theme-stout/commit/ddad8d7cfce10cea302ced5a107ce0df187b8c78))
+
 ## [1.0.2](https://github.com/dword-design/wordpress-theme-stout/compare/v1.0.1...v1.0.2) (2020-07-19)
 
 
