@@ -2,6 +2,7 @@
   "name": "wordpress-theme-stout",
   "version": "1.0.0",
   "description": "",
+  "repository": "dword-design/wordpress-theme-stout",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
   "files": [
