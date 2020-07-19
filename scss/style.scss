@@ -168,23 +168,23 @@ blockquote {
 }
 
 .border {
-  @nest #banner & {
-    background-image: url(../images/banner-border.png);
-  }
-
-  @nest .instrument.left & {
-    background-image: url(../images/instrument-left-border.png);
-  }
-
-  @nest .instrument.right & {
-    background-image: url(../images/instrument-right-border.png);
-  }
-
   position: absolute;
   top: 0;
   width: 100%;
   height: 100%;
   background-size: 100% 100%;
+
+  .instrument.left & {
+    background-image: url(../images/instrument-left-border.png);
+  }
+
+  .instrument.right & {
+    background-image: url(../images/instrument-right-border.png);
+  }
+
+  #banner & {
+    background-image: url(../images/banner-border.png);
+  }
 }
 
 #glass {
