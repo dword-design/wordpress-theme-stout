@@ -10,7 +10,22 @@
 [![Dependency status](https://img.shields.io/david/dword-design/wordpress-theme-stout)](https://david-dm.org/dword-design/wordpress-theme-stout)
 ![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dword-design/wordpress-theme-stout)
+<a href="https://www.buymeacoffee.com/dword">
+  <img
+    src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg"
+    alt="Buy Me a Coffee"
+    height="32"
+  >
+</a><a href="https://gitpod.io/#https://github.com/dword-design/wordpress-theme-stout">
+  <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod">
+</a>
+<a href="https://paypal.me/SebastianLandwehr">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg"
+    alt="PayPal"
+    height="30"
+  >
+</a>
 <!-- /BADGES -->
 
 <!-- DESCRIPTION/ -->
