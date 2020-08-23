@@ -1087,9 +1087,9 @@
     webpack-cli "^3.3.12"
 
 "@dword-design/base@^6.24.1":
-  version "6.25.0"
-  resolved "https://registry.yarnpkg.com/@dword-design/base/-/base-6.25.0.tgz#1a5f5f6655ce7001781c3622b30c8098659f6e99"
-  integrity sha512-p7Ka9lk2+YcjMUy5twlV4ZurpQc7T3W+hYojOqYgKUpQVxX2eAewGBj67Ve3dWvrj1UZOeD7SA6JK4hwS2l01w==
+  version "6.25.1"
+  resolved "https://registry.yarnpkg.com/@dword-design/base/-/base-6.25.1.tgz#a7e63616c4b9f356caa96135484649a0d0f7f5e2"
+  integrity sha512-9QcfdbQ9+Ikokxf3RRHeuUP4kiXOAGJkMo/FWEY8hmx2DGz1NhXY9wkS8Fjq74Kj8ImUdfOHVxDRH/CDEX4ufQ==
   dependencies:
     "@babel/core" "^7.6.4"
     "@babel/register" "^7.6.2"
@@ -3256,10 +3256,10 @@ commander@^4.0.1:
   resolved "https://registry.yarnpkg.com/commander/-/commander-4.1.1.tgz#9fd602bd936294e9e9ef46a3f4d6964044b18068"
   integrity sha512-NOKm8xhkzAjzFx8B2v5OAHT+u5pRQc2UCa2Vq9jYL/31o2wi9mxBA7LIFs3sV5VSC49z6pEhfbMULvShKj26WA==
 
-commander@^5.0.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-5.1.0.tgz#46abbd1652f8e059bddaef99bbdcb2ad9cf179ae"
-  integrity sha512-P0CysNDQ7rtVw4QIQtm+MRxV66vKFSvlsQvGYXZWR3qFU0jlMKHZZZgw8e+8DSah4UDKMqnknRDQz+xuQXQ/Zg==
+commander@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-6.0.0.tgz#2b270da94f8fb9014455312f829a1129dbf8887e"
+  integrity sha512-s7EA+hDtTYNhuXkTlhqew4txMZVdszBmKWSPEMxGr8ru8JXR7bLUFIAtPhcSuFdJQ0ILMxnJi8GkQL0yvDy/YA==
 
 commitizen@^4.0.3:
   version "4.1.5"
@@ -3882,12 +3882,7 @@ decode-uri-component@^0.2.0:
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
   integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
 
-dedent@0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.7.0.tgz#2495ddbaf6eb874abb0e1be9df22d2e5a544326c"
-  integrity sha1-JJXduvbrh0q7Dhvp3yLS5aVEMmw=
-
-dedent@dword-design/dedent#fork:
+dedent@0.7.0, dedent@dword-design/dedent#fork:
   version "0.7.0"
   resolved "https://codeload.github.com/dword-design/dedent/tar.gz/c8d46e5017d60504657c2d01b59082c0329a12a7"
   dependencies:
@@ -4297,7 +4292,7 @@ end-of-stream@^1.0.0, end-of-stream@^1.1.0:
   dependencies:
     once "^1.4.0"
 
-endent@dword-design/endent#fork, "endent@github:dword-design/endent#fork":
+endent@dword-design/endent#fork:
   version "1.4.0"
   resolved "https://codeload.github.com/dword-design/endent/tar.gz/be5433db67eaec07c6c9d00ba3bed2ed946dc664"
   dependencies:
@@ -6423,9 +6418,9 @@ is-fullwidth-code-point@^3.0.0:
   integrity sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg==
 
 is-gitpod@^1.0.7:
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/is-gitpod/-/is-gitpod-1.0.12.tgz#225a2eb3c6f55e78e08f84c5a43a548129e2c4ba"
-  integrity sha512-XfbatyP4flMTGdfHoTdoGAr0j3R1g3TPQLk2dKiNBspeUa7r5jhjD1BVwLTaBYBT6FCcVmEPBmstxl/7vK5l7w==
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/is-gitpod/-/is-gitpod-1.0.13.tgz#ff2e59df49630aa1bff5e2f90ff561955f5ff4fe"
+  integrity sha512-9bLWFaTuOiAuHHar+fD5LlHymfMX9daZjDvR31eSU9IycIJUMPmm8HVE3u7NiR9lAc3KyTh5bD3NutCaSCKm7A==
   dependencies:
     which "^2.0.2"
 
@@ -7578,12 +7573,12 @@ macos-release@^2.2.0:
   integrity sha512-H/QHeBIN1fIGJX517pvK8IEK53yQOW7YcEI55oYtgjDdoCQQz7eJS94qt5kNrscReEyuD/JcdFCm2XBEcGOITg==
 
 make-cli@^1.0.16, make-cli@^1.0.9:
-  version "1.0.21"
-  resolved "https://registry.yarnpkg.com/make-cli/-/make-cli-1.0.21.tgz#925b21077ee5a9329243ddde30ab3d8b37c9a043"
-  integrity sha512-hCT+5+7dlSvnvkkvGqqZsnpnCNzrFUM/ydQu+rYDsB52/Cl4KdYeFnMUrNIiIyr64+VnWI1c10daJhJP7jDing==
+  version "1.0.22"
+  resolved "https://registry.yarnpkg.com/make-cli/-/make-cli-1.0.22.tgz#22ab161bc5c85f77e19f88d728e44130d2f73690"
+  integrity sha512-BvaUAmNGlcSWsioJuGCxySM+EmcL/6NVOPSrw7AgGbMdjGOPmayRnFrCBLwQ3zE4IkzKe0rdI9dpivpISGh5ow==
   dependencies:
     "@dword-design/functions" "^2.2.2"
-    commander "^5.0.0"
+    commander "^6.0.0"
 
 make-dir@^1.0.0:
   version "1.3.0"
@@ -11514,7 +11509,7 @@ stylelint-scss@^3.17.2:
     postcss-selector-parser "^6.0.2"
     postcss-value-parser "^4.1.0"
 
-"stylelint-use-nesting@github:dword-design/stylelint-use-nesting#fork":
+stylelint-use-nesting@dword-design/stylelint-use-nesting#fork:
   version "3.0.0"
   resolved "https://codeload.github.com/dword-design/stylelint-use-nesting/tar.gz/3fa262d8898e33da3831ed526e45dade37c270e7"
 
