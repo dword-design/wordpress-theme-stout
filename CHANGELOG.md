@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/dword-design/wordpress-theme-stout/compare/v1.0.6...v1.0.7) (2021-02-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @dword-design/base to v7 ([#5](https://github.com/dword-design/wordpress-theme-stout/issues/5)) ([cb80ed7](https://github.com/dword-design/wordpress-theme-stout/commit/cb80ed779e1871418349ff78e199dc249815c9e4))
+
 ## [1.0.6](https://github.com/dword-design/wordpress-theme-stout/compare/v1.0.5...v1.0.6) (2021-02-16)
 
 
