@@ -1,7 +1,7 @@
 {
   "name": "wordpress-theme-stout",
   "version": "1.0.11",
-  "description": "",
+  "description": null,
   "repository": "dword-design/wordpress-theme-stout",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -28,5 +28,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "baseConfig": "@dword-design/wordpress-theme"
+  "baseConfig": "@dword-design/wordpress-theme",
+  "homepage": null,
+  "keywords": []
 }
