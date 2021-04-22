@@ -1,3 +1,11 @@
+## [1.0.13](https://github.com/dword-design/wordpress-theme-stout/compare/v1.0.12...v1.0.13) (2021-04-22)
+
+
+### Bug Fixes
+
+* update config files ([59bc652](https://github.com/dword-design/wordpress-theme-stout/commit/59bc65287e2634317f82afba7f805071958bf460))
+* updated package.json[description] ([#19](https://github.com/dword-design/wordpress-theme-stout/issues/19)) ([ffc64c8](https://github.com/dword-design/wordpress-theme-stout/commit/ffc64c8cfe9d57114644d06fbec3bd1dfe93437d))
+
 ## [1.0.12](https://github.com/dword-design/wordpress-theme-stout/compare/v1.0.11...v1.0.12) (2021-04-21)
 
 
