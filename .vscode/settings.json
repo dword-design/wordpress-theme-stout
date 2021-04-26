@@ -1,4 +1,5 @@
 {
+  "editor.tabSize": 2,
   "files.exclude": {
     ".babelrc.json": true,
     ".commitlintrc.json": true,
@@ -23,5 +24,6 @@
     "node_modules": true,
     "postcss.config.js": true,
     "yarn.lock": true
-  }
+  },
+  "workbench.editor.enablePreview": false
 }
