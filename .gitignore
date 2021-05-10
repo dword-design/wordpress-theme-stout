@@ -4,5 +4,6 @@
 /.stylelintrc.json
 /.test.env.json
 /coverage
+/dist
 /node_modules
 /postcss.config.js
