@@ -1,3 +1,10 @@
+## [1.0.50](https://github.com/dword-design/wordpress-theme-stout/compare/v1.0.49...v1.0.50) (2022-02-01)
+
+
+### Bug Fixes
+
+* lock file maintenance ([a51375a](https://github.com/dword-design/wordpress-theme-stout/commit/a51375ada451212c5a6d7031cbcdbb805b042b9b))
+
 ## [1.0.49](https://github.com/dword-design/wordpress-theme-stout/compare/v1.0.48...v1.0.49) (2022-01-24)
 
 
